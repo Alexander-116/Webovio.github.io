@@ -1,2 +1,2 @@
 # Webovio_maket
-https://Alexander-116.github.io/rsschool-cv/cv
+https://Alexander-116.github.io/Webovio_maket/cv
